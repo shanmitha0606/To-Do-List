@@ -1,0 +1,14 @@
+[
+    {
+        "task": "Read the book",
+        "completed": false
+    },
+    {
+        "task": "Going to the library",
+        "completed": false
+    },
+    {
+        "task": "Watch online class",
+        "completed": false
+    }
+]
